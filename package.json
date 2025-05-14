@@ -2,7 +2,7 @@
   "name": "css-theme-mirror",
   "version": "1.0.0",
   "description": "Intelligent CSS theme generator that creates complementary themes based on color theory",
-  "author": "Santu Jana <santujana1827@gmail.com> (https://github.com/santujana)",
+  "author": "Santu Jana <santujana1827@gmail.com> (https://github.com/akku27-cse",
   "license": "MIT",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -21,7 +21,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/santujana/css-theme-mirror.git"
+    "url": "git+https://github.com/akku27-cse/css-theme-mirror.git"
   },
   "homepage": "https://github.com/santujana/css-theme-mirror#readme",
   "bugs": {
